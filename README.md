@@ -3,12 +3,6 @@ This repository serves as a submission for the Intel Unnati Industrial Training 
 It focuses on PS:4 Introduction to GenAI. The project includes Simple LLM Inference on CPU and fine-tuning of LLM Model to create a Custom Chatbot.
 # TEAM INFORMATION
 *Team Name:* Binary Boltz 
-*Team Leader:* Thummalapalli Chandini 
-*Team Members:* 
-         Sathuri Tanmai
-         Yetukuri Karthikay
-         Thirunahari varshini
-         Kotipalli Adithi Naidu
 *Institute Name:* Malla Reddy College of Engineering & Technology
 *Institutional Mentor:* Dr.A.V.H.Sai Prasad
 *Intel Mentor:* Ms.Vasudha Kumari
